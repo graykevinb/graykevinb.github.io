@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Exciting right?
-Why not checkout out one of my awesome prjoects?
+Why not checkout out one of my awesome projects?
 
 #### [Line follower with computer vision](https://github.com/graykevinb/Stupid-Eye)
 #### [Command line tic-tac-toe](https://github.com/graykevinb/Tic)
