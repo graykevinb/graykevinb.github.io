@@ -1,5 +1,3 @@
-# I'm Kevin. I write code.
-
 Exciting right?
 Why not checkout out one of my awesome prjoects?
 
