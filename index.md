@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Exciting right?
+## Exciting right?
 Why not checkout out one of my awesome prjoects?
 
 #### [Line follower with computer vision](https://github.com/graykevinb/Stupid-Eye)
