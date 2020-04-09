@@ -18,5 +18,6 @@ Convinced yet? Here's my email. [kevin.gray.developer@gmail.com](kevin.gray.deve
 So one last tidbit, I was for three years on the frc team [Rockford Robotics](http://rockfordrobotics.com/)
 Before that two years on a 4-H team robotics team
 
-### I love computer science
+### My point? I love computer science!
 So, I am going to the Milwaukee School of Engineering to become a boss at it.
+And, I seriously would love to intern.
