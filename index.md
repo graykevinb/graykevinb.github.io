@@ -11,13 +11,22 @@ Why not checkout out one of my awesome projects?
 #### [Crack the Caesar Cipher](https://github.com/graykevinb/SaladCracker)
 #### You can find even more projects on my [github](github.com/graykevinb)
 
-Convinced yet? Here's my email. [kevin.gray.developer@gmail.com](kevin.gray.developer@gmail.com)
+Want to hit me up? Here's my email. [kevin.gray.developer@gmail.com](kevin.gray.developer@gmail.com)
 
-### Okay... You're not convinced
+### And I can't not mention robotics.
 
 So one last tidbit, I was for three years on the frc team [Rockford Robotics](http://rockfordrobotics.com/)
 Before that two years on a 4-H team robotics team
 
 ### My point? I love computer science!
 So, I am going to the Milwaukee School of Engineering to become a boss at it.
-And, I seriously would love to intern.
+
+### I love way more then that too!
+
+Outdoors, swing dance, Twenty One Pilots, and most of all people. 
+
+With diverse interests I"m always learning and happy to meet all people from all cultures and personalities.
+
+### So I volunteered at a summer camp
+ I love working with kids, and am willing to anything to make them smile. Even dress up as thanos. Don't worry though, my ethics are as good as Captain America.
+ ![](Thanos.jpg)
