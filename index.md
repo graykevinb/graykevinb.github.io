@@ -19,7 +19,7 @@ I was for three years on the frc team [Rockford Robotics](http://rockfordrobotic
 Before that two years on a 4-H team robotics team. And I absolutely loved every minute of it.
 
 ### My point? I love computer science!
-So, I am going to the Milwaukee School of Engineering to become a boss at it.
+So, I am going to the Milwaukee School of Engineering. I'm really excited to be honest about using the supercomputer they have.
 
 ### I love way more then that too!
 
@@ -28,5 +28,5 @@ Outdoors, swing dance, and Twenty One Pilots just to mention a few.
 With diverse interests I"m always learning and happy to meet all people from all cultures and personalities.
 
 ### So I volunteered at a summer camp
- I love working with kids, and am willing to anything to make them smile. Even dress up as thanos. Don't worry though, my ethics are as good as Captain America.
+ I love working with kids, and am willing to anything to make them smile. Even dress up as Thanos. Don't worry though, my ethics are as good as Captain America.
  ![](Thanos.jpg)
