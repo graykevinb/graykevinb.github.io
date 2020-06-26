@@ -25,13 +25,7 @@ So, I am going to the Milwaukee School of Engineering. I'm really excited to be 
 
 Outdoors, swing dance, and Twenty One Pilots just to mention a few.
 
-With diverse interests I"m always learning and happy to meet all people from all cultures and personalities.
-
-### So I volunteered at a summer camp
- I love working with kids, and am willing to anything to make them smile. Even dress up as Thanos. Don't worry though, my ethics are as good as Captain America.
- ![](Thanos.jpg)
- 
  
  ### All and all
-I'm just about to graduate highschool.So internships, job offers, pro tips, or just a high five are all welcome.
-In conclusion here's my email: [kevin.gray.developer@gmail.com](kevin.gray.developer@gmail.com)
+I'll be at Studying Computer Science this fall. So internships, job offers, pro tips, or just a high five are all welcome.
+I'd love to here from you! Here's my email: [kevin.gray.developer@gmail.com](kevin.gray.developer@gmail.com)
