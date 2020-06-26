@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## This is who I am:
-
 ### I write code
 So, why not checkout out one of my awesome projects?
 
