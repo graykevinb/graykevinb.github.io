@@ -24,6 +24,6 @@ So, I am going to the Milwaukee School of Engineering. I'm really excited to be 
 Outdoors, swing dance, and Twenty One Pilots just to mention a few.
 
  
- ### All and all
+### All and all
 I'll be at Studying Computer Science this fall. So internships, job offers, pro tips, or just a high five are all welcome.
 I'd love to here from you! Here's my email: [kevin.gray.developer@gmail.com](kevin.gray.developer@gmail.com)
