@@ -3,8 +3,7 @@ layout: default
 ---
 
 ### I write code
-So, why not checkout out one of my awesome projects?
-
+Here's some of my projects.
 #### [Line follower with computer vision](https://github.com/graykevinb/Stupid-Eye)
 #### [Command line tic-tac-toe](https://github.com/graykevinb/Tic)
 #### [Run a script with a physical button on your raspberry pi](https://github.com/graykevinb/Planetary-Start)
